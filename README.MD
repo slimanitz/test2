@@ -1,0 +1,1 @@
+Il vous suffit de créer une instance de BDD Mysql soit par Xampp en mettant comme mot de passe du root: `example` ou en lançant la commande `docker-compose up` pour creer et lancer le conteneur docker et il ne vous restera plus qu'à lancer les deux commandes `npm i` et `npm run start`
